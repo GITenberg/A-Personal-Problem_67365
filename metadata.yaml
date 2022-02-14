@@ -1,0 +1,32 @@
+_repo: A-Personal-Problem_67365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bedford-Jones, H. (Henry)
+    aliases:
+    - Bedford-Jones, Henry James O'Brien
+    - Wycliffe, John
+    birthdate: 1887
+    deathdate: 1949
+    gutenberg_agent_id: '34930'
+    url: http://www.gutenberg.org/2009/agents/34930
+    wikipedia: https://en.wikipedia.org/wiki/H._Bedford-Jones
+description: ''
+gutenberg_issued: '2022-02-09'
+identifiers:
+  gutenberg: '67365'
+language: en
+pgterms:marc904: https://archive.org/details/AllStoryWeeklyV034N0119140711j
+pgterms:marc905: 20220207204030bedfordjon
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark. This file was produced from images generously
+  made available by The Internet Archive.
+publication_note: United States :The Frank A. Munsey Company,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Personal Problem
+url: http://www.gutenberg.org/ebooks/67365
